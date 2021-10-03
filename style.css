@@ -1,0 +1,55 @@
+.box {
+  min-height: 50px;
+  padding: 5px;
+  margin: 5px;
+  font-weight: 100;
+  color: black;
+}
+
+.navbar-light .navbar-brand {
+  position: relative;
+  width: 100px;
+  text-align: center;
+  left: 15px;
+  font-weight: 600;
+}
+
+.navbar-light .navbar-toggle {
+  background-color: #0f4c92;
+}
+
+.skyblue {
+  background: deepskyblue;
+}
+
+.purple {
+  background: rebeccapurple;
+}
+
+.red {
+  background: indianred;
+}
+
+.turquoise {
+  background: 	mediumturquoise; 
+}
+
+.lightgray {
+  background: 	lightgray;
+}
+
+.white {
+  background: 	white;
+}
+
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  color: rgb(0, 167, 170);
+}
+
+h2 {
+  color: rgb(0, 167, 170);
+}
